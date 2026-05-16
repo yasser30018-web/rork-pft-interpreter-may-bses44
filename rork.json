@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "PFT Interpreter May Bses44",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
